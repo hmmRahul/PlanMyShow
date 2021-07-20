@@ -13,9 +13,9 @@ This Project is completed.
 
 ## **Project Screen Shot(s)**
 <img  align = "left" width="200" height="500" src="https://i.postimg.cc/BQyJyT3B/Screenshot-20210714-211438.png">
-<img   align = "left" width="200" height="500" src="https://i.postimg.cc/YSBM2th4/Screenshot-20210714-211926.png">
+<img   width="200" height="500" src="https://i.postimg.cc/YSBM2th4/Screenshot-20210714-211926.png">
 <img align = "left" width="200 height="500" src="https://i.postimg.cc/QtXD5Sgh/Screenshot-20210714-211950.png">
-<img align = "left" width="200 height="500" src="https://i.postimg.cc/Px2jMZKZ/Screenshot-20210714-212059.png">
+<img  width="200 height="500" src="https://i.postimg.cc/Px2jMZKZ/Screenshot-20210714-212059.png">
 
 
 
